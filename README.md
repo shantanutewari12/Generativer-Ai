@@ -1,1 +1,1 @@
-# Generativer-Ai
+# Generative-Ai
