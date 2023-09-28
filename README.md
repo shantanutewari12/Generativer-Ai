@@ -17,7 +17,7 @@ for various tasks, making it a valuable tool for both individual users and busin
 ### Text Summarization: Utilizes NLP algorithms.
 
 ## Run this app in your browser
- Click on this [https://mellow-selkie-ba5ca9.netlify.app/](https://mellow-selkie-ba5ca9.netlify.app/) 
+ Click on this [https://genrative-ai.netlify.app/](https://genrative-ai.netlify.app) 
  to play with this app in your browser.
 
 ## Available Scripts
